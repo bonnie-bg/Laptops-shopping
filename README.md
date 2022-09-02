@@ -1,11 +1,11 @@
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#
-#   CREATED                                                          @
-#           BY                                                       @
-#               Boniface                                             @
-#                       Gitahi                                       @
-#                             bonifacegitahi8@gmail.com              @
-#                        Year                                        @
-#                   2022                                             @
+#   CREATED 
+#           BY
+#               Boniface
+#                       Gitahi
+#                             bonifacegitahi8@gmail.com
+#                        Year 
+#                   2022
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#
 
 # Laptops-shopping-Front-End-Dev
