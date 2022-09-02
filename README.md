@@ -3,13 +3,9 @@
 ![Screenshot at 2022-09-02 16-07-43](https://user-images.githubusercontent.com/55579065/188153865-c43b4a05-3567-4492-8a82-f36f566ac07c.png)
 
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#
-#   CREATED 
-#           BY
-#               Boniface
-#                       Gitahi
-#                             bonifacegitahi8@gmail.com
-#                        Year 
-#                   2022
+# CREATED   BY   Boniface  Gitahi
+# Email:bonifacegitahi8@gmail.com
+# Year : 2022
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#
 
 # Laptops-shopping-Front-End-Dev
